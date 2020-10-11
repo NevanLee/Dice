@@ -93,6 +93,6 @@
     textSize(50);
     rect(20, 457, 240, 50);
     fill((int)(Math.random()* 254),(int)(Math.random() * 254),(int)(Math.random() * 254));
-    text("Sum: " + dieSum,30,500);
+    text("Sum: " + dieSum, 30, 500);
   }
 }
